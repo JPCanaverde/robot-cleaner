@@ -1,0 +1,6 @@
+
+.DS_Store
+.gradle/
+.idea/
+src/main/resources/static/
+src/main/resources/templates/
